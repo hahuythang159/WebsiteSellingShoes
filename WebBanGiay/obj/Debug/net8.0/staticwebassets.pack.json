@@ -1,0 +1,569 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HA HUY THANG\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebBanGiay.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebBanGiay.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\31434966252_8e1bc946da_b.jpg",
+      "PackagePath": "staticwebassets\\images\\31434966252_8e1bc946da_b.jpg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\ADIDAS CAMPUS 00S.jpeg",
+      "PackagePath": "staticwebassets\\images\\ADIDAS CAMPUS 00S.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\ADIDAS FORUM 84 LOW.jpg",
+      "PackagePath": "staticwebassets\\images\\ADIDAS FORUM 84 LOW.jpg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\ADIDAS FORUM LOW CL.jpg",
+      "PackagePath": "staticwebassets\\images\\ADIDAS FORUM LOW CL.jpg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\ADIDAS PROPHERE GREY.jpeg",
+      "PackagePath": "staticwebassets\\images\\ADIDAS PROPHERE GREY.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\ADIDAS SAMBA OG.jpg",
+      "PackagePath": "staticwebassets\\images\\ADIDAS SAMBA OG.jpg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\AIR FORCE 1 SHADOW.jpeg",
+      "PackagePath": "staticwebassets\\images\\AIR FORCE 1 SHADOW.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\AIR FORCE 1 VOLT NEON.jpeg",
+      "PackagePath": "staticwebassets\\images\\AIR FORCE 1 VOLT NEON.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\AIR JORDAN 1 LOW ICE BLUE.jpeg",
+      "PackagePath": "staticwebassets\\images\\AIR JORDAN 1 LOW ICE BLUE.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\AIR JORDAN 1 LOW.jpeg",
+      "PackagePath": "staticwebassets\\images\\AIR JORDAN 1 LOW.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\AIR JORDAN COURTSIDE 23.jpeg",
+      "PackagePath": "staticwebassets\\images\\AIR JORDAN COURTSIDE 23.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\AIR JORDAN MAX AURA 5.jpg",
+      "PackagePath": "staticwebassets\\images\\AIR JORDAN MAX AURA 5.jpg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\JORDAN 1 LOW NU RETRO.jpeg",
+      "PackagePath": "staticwebassets\\images\\JORDAN 1 LOW NU RETRO.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\JORDAN 1 MID LIGHT SMOKE GREY.jpeg",
+      "PackagePath": "staticwebassets\\images\\JORDAN 1 MID LIGHT SMOKE GREY.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\JORDAN 4 'SAIL METALLIC GOLD'.jpg",
+      "PackagePath": "staticwebassets\\images\\JORDAN 4 'SAIL METALLIC GOLD'.jpg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\JORDAN STADIUM 90.jpeg",
+      "PackagePath": "staticwebassets\\images\\JORDAN STADIUM 90.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\NIKE AIR FORCE 1 WHITE PINK.jpeg",
+      "PackagePath": "staticwebassets\\images\\NIKE AIR FORCE 1 WHITE PINK.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\NIKE AIR MAX EXCEE.jpg",
+      "PackagePath": "staticwebassets\\images\\NIKE AIR MAX EXCEE.jpg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\NIKE E-SERIES AD.jpeg",
+      "PackagePath": "staticwebassets\\images\\NIKE E-SERIES AD.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\NIKE INTERACT RUN 'BLACK'.jpeg",
+      "PackagePath": "staticwebassets\\images\\NIKE INTERACT RUN 'BLACK'.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\NIKE INTERACT RUN.jpeg",
+      "PackagePath": "staticwebassets\\images\\NIKE INTERACT RUN.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\NIKE MC TRAINER 2 PALE IVORY GUAVA ICE.jpeg",
+      "PackagePath": "staticwebassets\\images\\NIKE MC TRAINER 2 PALE IVORY GUAVA ICE.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\NIKE REVOLUTION 7.jpeg",
+      "PackagePath": "staticwebassets\\images\\NIKE REVOLUTION 7.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\NIKE STRUCTURE 25 PREMIUM.jpeg",
+      "PackagePath": "staticwebassets\\images\\NIKE STRUCTURE 25 PREMIUM.jpeg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\VANS KNU SKOOL.jpg",
+      "PackagePath": "staticwebassets\\images\\VANS KNU SKOOL.jpg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\anh2-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\anh2-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\d68cd834-3676-4504-b63b-de21badfc6dd.png",
+      "PackagePath": "staticwebassets\\images\\d68cd834-3676-4504-b63b-de21badfc6dd.png"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\fasfas.jpg",
+      "PackagePath": "staticwebassets\\images\\fasfas.jpg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\poster-giay-ad.jpg",
+      "PackagePath": "staticwebassets\\images\\poster-giay-ad.jpg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\poster-giay-den.jpg",
+      "PackagePath": "staticwebassets\\images\\poster-giay-den.jpg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\poster-giay-just-do-it.jpg",
+      "PackagePath": "staticwebassets\\images\\poster-giay-just-do-it.jpg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\images\\poster-giay.jpg",
+      "PackagePath": "staticwebassets\\images\\poster-giay.jpg"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\LTWEB\\WebBanGiay_Final\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebBanGiay.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebBanGiay.props",
+      "PackagePath": "build\\WebBanGiay.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebBanGiay.props",
+      "PackagePath": "buildMultiTargeting\\WebBanGiay.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebBanGiay.props",
+      "PackagePath": "buildTransitive\\WebBanGiay.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
